@@ -1,12 +1,12 @@
 {
-  "name": "brittanychiang.com",
+  "name": "apoorvdayal.github.io",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Protect systems from risks, threats and breaches.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/Apoorv13/apoorvdayal.github.io"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://github.com/Apoorv13/apoorvdayal.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",

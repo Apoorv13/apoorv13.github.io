@@ -1,33 +1,36 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
+  - item: C++
+  - item: JAVA
   - item: SQL
-  - item: R
+  - item: Go
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: Laravel
   - item: React
   - item: Jekyll
-  - item: Node
+  - item: Neo4j
   - item: D3
-  - item: Wordpress
-  - item: Timber
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
+  - item: Metaploit
+  - item: Wireshark
+  - item: nmap
   - item: MongoDB
+  - item: Empyre
+  - item: Responder
+  - item: Volatility
+  - item: Ghidra
+  - item: Eclipse
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+security:
+  - item: Docker
+  - item: AWS
+  - item: Cloud Security
+  - item: Secure Code Review
+  - item: Penetration Testing (Red Teaming)
+  - item: Application Security
+  - item: GCP
+  - item: Malware Analysis
