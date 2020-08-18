@@ -1,7 +1,7 @@
 <section class="section skills">
   <div class="section__title">Skills</div>
   <div class="section__content">
-    <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
+    <p>I’ve picked up quite a few skills during the course of my internship and past experiences, and aim to improve these skills everyday. Here are a few of the tools / technologies and focus areas that I have experience with:</p>
     <div class="skillz">
       <div class="skillz__category">
         <div class="skillz__category__label">Languages</div>
@@ -12,25 +12,25 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Frameworks</div>
+        <div class="skillz__category__label">Tools</div>
         <ul>
-          {% for framework in site.data.skills.frameworks %}
+          {% for framework in site.data.skills.tools %}
           <li class="skillz__category__item">{{framework.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Tools</div>
+        <div class="skillz__category__label">Tools/Technologies</div>
         <ul>
-          {% for tool in site.data.skills.tools %}
+          {% for tool in site.data.skills.technologies %}
           <li class="skillz__category__item">{{tool.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Security</div>
+        <div class="skillz__category__label">Interests</div>
         <ul>
-          {% for thing in site.data.skills.security %}
+          {% for thing in site.data.skills.interests %}
           <li class="skillz__category__item">{{thing.item}}</li>
           {% endfor %}
         </ul>
