@@ -1,0 +1,38 @@
+- name: Malware Detection using Blockchain
+  url: https://github.com/Apoorv13/Malware_Detection_Autoencoder_Blockchain
+  code: https://github.com/Apoorv13/Malware_Detection_Autoencoder_Blockchain
+  description: Utilising blockchain for creating a decentralized malware detection system. Motivated by the fact that today's Malware detection systems and Firewalls are mode Predictable than being predictive.
+  used:
+    - thing: Assembly Code
+    - thing: Python
+    - thing: Blockchain
+    - thing: Malware Analysis
+    - thing: Autoencoder based Deep Learning
+
+- name: Threat Intelligence Aggregator Platform (Under NDA from FireEye)
+  url: 
+  code: 
+  description: Created an aggregator tool as a part of Mandiant Intelligence Company wide Intern Project, to aggregate intel from OSINT sources, internal tools and sandboxes to suggest intelligent pivots to Malware Analyst in a bid to ease their job. This is currently in production for company's internal use only and analytics data suggested a reduction of nearly 35% time an analyst previously spent on a sample.
+  used:
+    - thing: Python
+    - thing: REST APIs
+    - thing: Reverse Engineering
+    - thing: Malware Analysis
+    - thing: OSINT
+    - thing: Integration
+    - thing: Regex
+
+- name: CraniUS - Secure Real Time Drug Delivery and Ultrasound for Neuroplastic Surgery - School of Medicine, Johns Hopkins
+  url: 
+  code: 
+  description: Created threat models, security policies and CI/CD pipeline for development activities as DevSecOps. Worked with a team of doctorate level researchers and professionals to create secure lightweight protocol on top of Bluetooth stack.
+  used:
+    - thing: Python
+    - thing: Protocol Design
+    - thing: Firmware Code (x86)
+    - thing: Threat Modeling
+    - thing: Architecture Design
+    - thing: Cloud Deployment
+    - thing: Jenkins
+    - thing: Kubernetes
+    - thing: DevSecOps
