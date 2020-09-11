@@ -13,6 +13,21 @@
     - thing: Kubernetes
     - thing: DevSecOps
 
+- name: AgeX - Elderly people need care and comfort to lead a healthy life. We try to improve the lives of these people by providing a application that is designed with their needs in mind..
+  url: https://github.com/shreyash002/AgeX
+  code: https://github.com/shreyash002/AgeX
+  description: The application was built as a responsive web application, compatible to be deployed as a PWA using container view for native applications on iOS and Android platforms, using the following tech stack - Python-Flask, Google Cloud, Platform Templating engine - Jinja FrontEnd, HTML + CSS ,Google Maps API, Chatbot Flow. Lex Google GeoLocation API Google Places API Google Cloud SQL Service Google GeoCoding API
+  used:
+    - thing: Python
+    - thing: Flask
+    - thing: AWS LEX
+    - thing: Threat Modeling
+    - thing: Architecture Design
+    - thing: Cloud Deployment
+    - thing: Jinja
+    - thing: Kubernetes
+    - thing: Docker
+
 - name: Decentralised Firewall for Malware Detection using Blockchain
   url: https://github.com/Apoorv13/Malware_Detection_Autoencoder_Blockchain
   code: https://github.com/Apoorv13/Malware_Detection_Autoencoder_Blockchain
@@ -36,21 +51,6 @@
     - thing: OSINT
     - thing: Integration
     - thing: Regex
-
-- name: CraniUS - Secure Real Time Drug Delivery and Ultrasound for Neuroplastic Surgery - School of Medicine, Johns Hopkins
-  url: 
-  code: 
-  description: Created threat models, security policies and CI/CD pipeline for development activities as DevSecOps. Worked with a team of doctorate level researchers and professionals to create secure lightweight protocol on top of Bluetooth stack.
-  used:
-    - thing: Python
-    - thing: Protocol Design
-    - thing: Firmware Code (x86)
-    - thing: Threat Modeling
-    - thing: Architecture Design
-    - thing: Cloud Deployment
-    - thing: Jenkins
-    - thing: Kubernetes
-    - thing: DevSecOps
   
 - name: My Robot is Flawless, Right? (Autonomous Vehicle Security / Machine Learning) 
   url: https://livejohnshopkins-my.sharepoint.com/personal/adayal2_jh_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadayal2%5Fjh%5Fedu%2FDocuments%2FAttachments%2FIoT%20%2D%20Cyber%20Physical%20Vulnerability%20Analysis%2Epdf&parent=%2Fpersonal%2Fadayal2%5Fjh%5Fedu%2FDocuments%2FAttachments&wdLOR=c86274223%2DD134%2DF544%2D8A4A%2DBAE71E4D2C1A&originalPath=aHR0cHM6Ly9saXZlam9obnNob3BraW5zLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2FkYXlhbDJfamhfZWR1L0VVRWRDNGNReTFKRWo3ei11bUNkVWdRQm1jNVVjRDdPMy1JNFVFMTlMcXY4WWc_cnRpbWU9aENYckRPSkUyRWc
