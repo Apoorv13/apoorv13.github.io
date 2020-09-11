@@ -1,4 +1,19 @@
-- name: Malware Detection using Blockchain
+- name: CraniUS - Secure Real Time Drug Delivery and Ultrasound for Neuroplastic Surgery - School of Medicine, Johns Hopkins
+  url: 
+  code: 
+  description: Created threat models, security policies and CI/CD pipeline for development activities as DevSecOps. Worked with a team of doctorate level researchers and professionals to create secure lightweight protocol on top of Bluetooth stack.
+  used:
+    - thing: Python
+    - thing: Protocol Design
+    - thing: Firmware Code (x86)
+    - thing: Threat Modeling
+    - thing: Architecture Design
+    - thing: Cloud Deployment
+    - thing: Jenkins
+    - thing: Kubernetes
+    - thing: DevSecOps
+
+- name: Decentralised Firewall for Malware Detection using Blockchain
   url: https://github.com/Apoorv13/Malware_Detection_Autoencoder_Blockchain
   code: https://github.com/Apoorv13/Malware_Detection_Autoencoder_Blockchain
   description: Utilising blockchain for creating a decentralized malware detection system. Motivated by the fact that today's Malware detection systems and Firewalls are mode Predictable than being predictive.
@@ -36,3 +51,22 @@
     - thing: Jenkins
     - thing: Kubernetes
     - thing: DevSecOps
+  
+- name: My Robot is Flawless, Right? (Autonomous Vehicle Security / Machine Learning) 
+  url: https://livejohnshopkins-my.sharepoint.com/personal/adayal2_jh_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadayal2%5Fjh%5Fedu%2FDocuments%2FAttachments%2FIoT%20%2D%20Cyber%20Physical%20Vulnerability%20Analysis%2Epdf&parent=%2Fpersonal%2Fadayal2%5Fjh%5Fedu%2FDocuments%2FAttachments&wdLOR=c86274223%2DD134%2DF544%2D8A4A%2DBAE71E4D2C1A&originalPath=aHR0cHM6Ly9saXZlam9obnNob3BraW5zLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2FkYXlhbDJfamhfZWR1L0VVRWRDNGNReTFKRWo3ei11bUNkVWdRQm1jNVVjRDdPMy1JNFVFMTlMcXY4WWc_cnRpbWU9aENYckRPSkUyRWc
+  code: https://livejohnshopkins-my.sharepoint.com/personal/adayal2_jh_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadayal2%5Fjh%5Fedu%2FDocuments%2FAttachments%2FIoT%20%2D%20Cyber%20Physical%20Vulnerability%20Analysis%2Epdf&parent=%2Fpersonal%2Fadayal2%5Fjh%5Fedu%2FDocuments%2FAttachments&wdLOR=c86274223%2DD134%2DF544%2D8A4A%2DBAE71E4D2C1A&originalPath=aHR0cHM6Ly9saXZlam9obnNob3BraW5zLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2FkYXlhbDJfamhfZWR1L0VVRWRDNGNReTFKRWo3ei11bUNkVWdRQm1jNVVjRDdPMy1JNFVFMTlMcXY4WWc_cnRpbWU9aENYckRPSkUyRWc
+  description: Researched and executed red team exercises, automating using hill climbing techniques to automate and successfully discover potential flaws in autonomous vehicle simulation on TurtleBot3.
+  used:
+    - thing: Python
+    - thing: Red Teaming
+    - thing: Metasploit
+    - thing: Threat Modeling
+    - thing: Q Learning
+    - thing: Wireless Attacks
+    - thing: Application Security
+    - thing: Buffer Overflow
+    - thing: Masquerading
+    - thing: Code Review and Exploitation
+    - thing: Vulnerabiltiy Assessments
+    - thing: Machine Learning
+    - thing: Autonomous Vehicle Security
