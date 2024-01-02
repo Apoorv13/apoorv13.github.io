@@ -1,3 +1,8 @@
+- company: Microsoft
+  url: http://www.microsoft.com
+  time: April 2021 - Present
+  position: Security Software Engineer II 
+
 - company: Johns Hopkins Bloomberg School of Public Health
   url: http://www.jhsph.edu
   time: September 2019 - Present
@@ -17,18 +22,3 @@
   url: https://www.ey.com
   time: June 2017 - July 2019
   position: Cybersecurity Analyst III
-
-- company: Worlzen
-  url: http://www.worlzen.com/
-  time: Feb 2016 - September 2016
-  position: Software Development Intern
-
-- company: OnRoute Taxi
-  url: Not Available
-  time: August 2015 - November 2015
-  position: Software Development Intern
-
-- company: Computer Society Of India 
-  url: https://www.csitsec.com
-  time: May 2014 - April 2016
-  position: Project Manager - Technology and Innovation Club
