@@ -6,27 +6,37 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Languages</div>
         <ul>
-          {% for language in site.data.skills.languages %}
+          {% for language in site.data.skills.Languages %}
           <li class="skillz__category__item">{{language.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Tools</div>
+        <div class="skillz__category__label">Frameworks</div>
         <ul>
-          {% for framework in site.data.skills.tools %}
+          {% for framework in site.data.skills.Frameworks %}
           <li class="skillz__category__item">{{framework.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Tools/Technologies</div>
+        <div class="skillz__category__label">Techniques</div>
         <ul>
-          {% for tool in site.data.skills.technologies %}
+          {% for tool in site.data.skills.Techniques %}
           <li class="skillz__category__item">{{tool.item}}</li>
           {% endfor %}
         </ul>
       </div>
+      
+      <div class="skillz__category">
+        <div class="skillz__category__label">Platforms</div>
+        <ul>
+          {% for tool in site.data.skills.Platforms %}
+          <li class="skillz__category__item">{{tool.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      
       <div class="skillz__category">
         <div class="skillz__category__label">Interests</div>
         <ul>
