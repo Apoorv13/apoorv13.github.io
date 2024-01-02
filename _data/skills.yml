@@ -6,7 +6,7 @@ Programming languages:
 Frameworks: 
   - item: .NET
   - item: OWASP Top 10 Web / Kubernetes / LLMs / Containers
-	
+
 Techniques: 
   - item: Secure code reviews 
   - item: Architecture and Design reviews
