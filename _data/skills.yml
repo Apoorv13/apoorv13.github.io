@@ -1,37 +1,31 @@
-languages:
+Programming languages:
+  - item: C#
   - item: Python
-  - item: C++
-  - item: x86
-  - item: SQL
-  - item: Go
+  - item: KQL
 
-tools:
-  - item: OSINT
-  - item: Maltego
-  - item: IDA
-  - item: OllyDbg
-  - item: WireShark
-  - item: Metaploit
-  - item: Burp
-  - item: nmap
-
-technologies:
-  - item: Git & Github
-  - item: Docker
+Frameworks: 
+  - item: .NET
+  - item: OWASP Top 10 Web / Kubernetes / LLMs / Containers
+	
+Techniques: 
+  - item: Secure code reviews 
+  - item: Architecture and Design reviews
+  - item: Threat model reviews
+  - item: Penetration testing
+  - item: Network traffic analysis
+  - item: Container security
   - item: Kubernetes
-  - item: Secure Code Review
-  - item: Volatility
-  - item: Ghidra
-  - item: Eclipse
-  - item: Procmon
+  - item: Red Teaming
+
+Platforms: 
+  - item: Azure
+  - item: Infrastructure deployment and review
 
 interests:
   - item: Creative Red Teaming
-  - item: Threat Hunting / Intelligence
+  - item: Penetration Testing
   - item: Cloud Security
   - item: Network Security
-  - item: Malware Analysis and Attribution
   - item: Application Security
-  - item: Reverse Engineering
   - item: Threat Modeling
-  - item: Intelligence Modeling
+  - item: Architecture & Design review
